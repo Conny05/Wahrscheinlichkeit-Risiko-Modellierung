@@ -1,4 +1,4 @@
-# 📊 Wahrscheinlichkeit & Risiko-Modellierung
+# 📊 Wahrscheinlichkeit & Risiko Modellierung
 
 > Monte Carlo-Simulationen und stochastische Risikomodelle in Python  
 > **Status:** 🟢 Laufend (2025–heute)
