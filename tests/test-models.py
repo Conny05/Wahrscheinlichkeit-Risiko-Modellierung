@@ -1,5 +1,5 @@
 # Tests fuer alle Risikomodelle
-# Ausfuehren: python tests/test_models.py
+# Ausführen: python tests/test_models.py
 
 import sys
 import os
