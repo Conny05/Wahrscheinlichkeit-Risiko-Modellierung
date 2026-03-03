@@ -98,7 +98,7 @@ Nach dem Ausführen von `main.py` werden Grafiken gespeichert in `/results/`.
 ## 👤 Autor
 
 **Dein Name**  
-GitHub: [@conny05](https://github.com/dein-username)
+GitHub: [@Conny05](https://github.com/dein-username)
 
 ---
 
