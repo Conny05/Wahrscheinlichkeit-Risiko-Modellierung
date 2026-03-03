@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtuelle Umgebungen
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Simulationsergebnisse (optional: kommentieren, wenn Ergebnisse versioniert werden sollen)
+results/*.png
+results/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
