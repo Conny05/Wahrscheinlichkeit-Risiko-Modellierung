@@ -138,8 +138,8 @@ Die Gesamtprojektdauer ergibt sich durch Monte-Carlo-Aggregation über den kriti
 
 ## 👤 Autor
 
-**Bwiza C.**  
-B.Sc. Mathematik – Goethe-Universität Frankfurt am Main (5. Semester)  
+**Bambe COnny**  
+B.Sc. Mathematik – Goethe-Universität Frankfurt am Main (4. Semester)  
 GitHub: [@Conny05](https://github.com/Conny05)
 
 ---
